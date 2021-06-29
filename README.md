@@ -1,6 +1,6 @@
 # flutter_nodejs
 
-A new Flutter project.
+Estudo de integração de Frontend com backlend (Flutter com Nodejs)
 
 ## Getting Started
 
